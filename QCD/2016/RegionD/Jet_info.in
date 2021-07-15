@@ -19,8 +19,8 @@ TauMatchingDeltaR  0.3
 EtaCut 0. 5.0
 PtCut 30.0
 
-ApplyLooseID 0
-ApplyTightID 1
+ApplyLooseID 1
+ApplyTightID 0
 
 RemoveOverlapWithMuon1s 1
 RemoveOverlapWithMuon2s 1
@@ -52,8 +52,8 @@ Apply2017EEnoiseVeto false
 EtaCut 0. 5.0
 PtCut 30.0
 
-ApplyLooseID 0
-ApplyTightID 1
+ApplyLooseID 1
+ApplyTightID 0
 
 RemoveOverlapWithMuon1s 1
 RemoveOverlapWithMuon2s 1
@@ -84,8 +84,8 @@ Apply2017EEnoiseVeto false
 
 PtCut 30.0
 
-ApplyLooseID 0
-ApplyTightID 1
+ApplyLooseID 1
+ApplyTightID 0
 
 RemoveOverlapWithMuon1s 1
 RemoveOverlapWithMuon2s 1
@@ -113,8 +113,8 @@ DoDiscrByThisJet 1
 EtaCut 0.0 5.0
 PtCut 30.0
 
-ApplyLooseID 0
-ApplyTightID 1
+ApplyLooseID 1
+ApplyTightID 0
 
 RemoveOverlapWithMuon1s 1 
 RemoveOverlapWithMuon2s 1
@@ -142,8 +142,8 @@ DoDiscrByThisJet 1
 EtaCut 0.0 5.0
 PtCut 30.0
 
-ApplyLooseID 0
-ApplyTightID 1
+ApplyLooseID 1
+ApplyTightID 0
 
 RemoveOverlapWithMuon1s 1
 RemoveOverlapWithMuon2s 1
